@@ -7,7 +7,7 @@
 .container{
     width: 80rem !important; 
     border: 1px solid white;
-    height: 46rem !important;
+    height: 46rem !important; 
    margin:  3.125rem auto ;
     background-color:  hsl(30, 38%, 92%);
 }
@@ -39,6 +39,7 @@
     color: hsl(228, 12%, 48%) !important; 
     font-family: 'Montserrat';
 }
-.text-secondary{
-    color: hsl(228, 12%, 48%) !important;  
+
+.text-success{
+ color:  hsl(158, 36%, 37%) !important;  
 }
